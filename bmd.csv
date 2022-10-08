@@ -1,0 +1,170 @@
+id,age,sex,fracture,weight_kg,height_cm,medication,waiting_time,bmd,T-Score,Condition
+5495,35.81405763,M,no fracture,79,168.5,No medication,33,0.7895,-1.25,Osteopenia
+3088,36.64831103,M,no fracture,54,175,No medication,11,0.85600001,-0.704917951,Healthy Bone Density
+834,37.46199496,M,fracture,55,156,No medication,7,0.68839997,-2.07868877,Osteopenia
+6696,39.25494707,M,no fracture,76,173.5,No medication,6,1.0502,0.886885246,Healthy Bone Density
+5288,40.23236742,M,no fracture,66,165,No medication,8,1.039,0.795081967,Healthy Bone Density
+5298,41.35119985,M,fracture,45,159.5,No medication,6,0.7076,-1.921311475,Osteopenia
+17086,41.41761507,M,no fracture,66,160,No medication,23,1.0003,0.477868852,Healthy Bone Density
+181,42.81703317,F,no fracture,56,151,No medication,10,0.88880002,-0.43606541,Healthy Bone Density
+2024,43.45071208,M,no fracture,75,165,Glucocorticoids,16,1.0197999,0.637704098,Healthy Bone Density
+5320,43.46317104,M,no fracture,51,162,No medication,23,0.796,-1.196721311,Osteopenia
+2143,44.23967859,M,no fracture,81,177,No medication,7,0.9824,0.331147541,Healthy Bone Density
+6676,44.68312684,M,no fracture,67,172,No medication,6,0.90100002,-0.33606541,Healthy Bone Density
+5364,45.86658172,M,no fracture,62,169,No medication,12,0.80150002,-1.15163918,Osteopenia
+4205,46.08154976,M,no fracture,73,171,No medication,37,0.89819998,-0.359016557,Healthy Bone Density
+6969,46.35972067,M,fracture,67,169,No medication,10,0.80369997,-1.133606803,Osteopenia
+8829,46.56490164,F,no fracture,56,157,No medication,27,0.73460001,-1.699999918,Osteopenia
+8854,47.02465066,F,no fracture,47,148.5,Glucocorticoids,22,0.64960003,-2.396721066,Osteopenia
+17116,48.28948823,M,no fracture,68,160,No medication,14,0.9716,0.242622951,Healthy Bone Density
+23902,48.52365084,F,fracture,55,159.5,No medication,11,0.6904,-2.062295082,Osteopenia
+6981,48.81687141,M,no fracture,96,169,No medication,33,0.89950001,-0.348360574,Healthy Bone Density
+6684,49.20966328,M,no fracture,66,157,No medication,47,0.72689998,-1.763114918,Osteopenia
+134,49.73132379,F,no fracture,72,160.5,No medication,60,0.98509997,0.353278443,Healthy Bone Density
+8704,49.78743656,F,no fracture,46,150,No medication,17,0.73500001,-1.69672123,Osteopenia
+23834,49.91613988,F,no fracture,59,150,No medication,9,0.73100001,-1.729508115,Osteopenia
+23824,50.27605888,F,fracture,60,170,Anticonvulsant,48,0.73989999,-1.656557459,Osteopenia
+24140,50.28530296,F,fracture,59,161,No medication,6,0.79710001,-1.187704836,Osteopenia
+8850,50.36051644,F,no fracture,73,161.5,Glucocorticoids,15,0.86379999,-0.640983689,Healthy Bone Density
+354,51.04837034,F,fracture,68,164.5,No medication,38,0.6904,-2.062295082,Osteopenia
+398,51.43071736,F,no fracture,67.5,154,Glucocorticoids,10,0.92339998,-0.15245918,Healthy Bone Density
+8896,51.59653972,F,no fracture,54,154,No medication,13,0.7755,-1.364754098,Osteopenia
+6602,52.24655176,M,no fracture,64,168,No medication,10,0.61870003,-2.649999754,Osteoporosis
+17100,52.32252245,M,no fracture,71,165,No medication,21,0.87760001,-0.52786877,Healthy Bone Density
+23790,52.47831105,F,no fracture,59,150.5,No medication,6,0.73140001,-1.726229426,Osteopenia
+17090,52.79292063,M,no fracture,77,175.5,No medication,19,0.88880002,-0.43606541,Healthy Bone Density
+23904,52.90099358,F,no fracture,61,154,No medication,9,0.97060001,0.234426311,Healthy Bone Density
+2179,53.3954402,M,no fracture,70,162.5,No medication,73,0.80199999,-1.147541066,Osteopenia
+5350,53.53171717,M,fracture,69,163.5,No medication,32,0.52789998,-3.394262459,Severe Osteoporosis
+23919,53.7692897,F,fracture,40,150,Glucocorticoids,34,0.55790001,-3.148360574,Severe Osteoporosis
+4335,54.15273476,M,fracture,79,161,No medication,38,0.5693,-3.054918033,Severe Osteoporosis
+17072,54.1918766,M,no fracture,55,161,No medication,20,0.79089999,-1.238524672,Osteopenia
+2111,54.23390445,M,no fracture,50,169,No medication,12,0.71280003,-1.878688279,Osteopenia
+304,54.40617797,F,no fracture,69,160,No medication,8,0.88190001,-0.492622869,Healthy Bone Density
+424,54.42421077,F,no fracture,71,165,No medication,17,1.0266,0.693442623,Healthy Bone Density
+8574,54.49762635,F,no fracture,57,165.5,No medication,29,0.73110002,-1.728688361,Osteopenia
+8590,54.77277445,F,no fracture,62,158,No medication,8,0.79659998,-1.191803443,Osteopenia
+5505,54.78836776,M,fracture,70,166,No medication,14,0.80720001,-1.104917951,Osteopenia
+7776,54.91253353,M,no fracture,69,168,No medication,20,1.0908999,1.220490984,Healthy Bone Density
+23586,54.99218408,M,no fracture,75,172,No medication,64,0.81260002,-1.060655574,Osteopenia
+9016,55.41170957,F,no fracture,59,160,No medication,6,0.75099999,-1.565573852,Osteopenia
+17106,56.18061769,M,no fracture,77,159,No medication,26,1.0096,0.554098361,Healthy Bone Density
+35,56.20812741,F,no fracture,68,150.5,No medication,18,0.71710002,-1.843442459,Osteopenia
+191,56.54581828,M,no fracture,71,166,No medication,15,1.0839,1.163114754,Healthy Bone Density
+23873,56.93126646,F,no fracture,60,159,Anticonvulsant,40,0.67439997,-2.193442869,Osteopenia
+8906,56.95872053,F,no fracture,59,164,No medication,11,0.73470002,-1.699180164,Osteopenia
+446,56.96445803,M,no fracture,64.5,162,Glucocorticoids,9,0.72009999,-1.818852541,Osteopenia
+469,57.05276775,F,no fracture,64,155.5,Anticonvulsant,18,0.8793,-0.513934426,Healthy Bone Density
+2306,57.56917982,M,no fracture,74,176,Anticonvulsant,29,1.0287,0.710655738,Healthy Bone Density
+322,57.58119772,F,fracture,36,152,No medication,35,0.52939999,-3.381967295,Severe Osteoporosis
+8622,57.80229798,F,no fracture,50,152,No medication,21,0.82539999,-0.955737787,Healthy Bone Density
+7528,57.93459324,M,no fracture,67,160,Glucocorticoids,5,0.7978,-1.181967213,Osteopenia
+23843,58.19132915,F,no fracture,59,154,No medication,10,0.84990001,-0.754917951,Healthy Bone Density
+8642,58.26221496,F,no fracture,51,150.5,Anticonvulsant,9,0.58990002,-2.88606541,Osteoporosis
+6924,58.33505192,M,no fracture,91,176,No medication,24,1.1335,1.569672131,Healthy Bone Density
+5360,58.67087154,M,no fracture,62,170,No medication,24,0.87199998,-0.573770656,Healthy Bone Density
+24208,58.81240985,F,no fracture,74,149,No medication,38,0.83069998,-0.912295246,Healthy Bone Density
+2020,59.07608201,M,fracture,64,170,No medication,20,0.72460002,-1.781967049,Osteopenia
+17052,59.26117883,M,no fracture,55,163,Glucocorticoids,23,0.76599997,-1.442623197,Osteopenia
+24051,59.46131701,F,no fracture,82,148.5,No medication,13,0.90359998,-0.314754262,Healthy Bone Density
+23625,59.70722073,M,no fracture,78,175,No medication,29,0.85930002,-0.677868689,Healthy Bone Density
+8960,60.18946129,F,no fracture,55,153.5,Glucocorticoids,22,0.83770001,-0.854917951,Healthy Bone Density
+17140,60.22138607,M,no fracture,94,166,No medication,18,1.0617,0.981147541,Healthy Bone Density
+8999,60.23658177,F,no fracture,70,158,Glucocorticoids,8,0.8362,-0.867213115,Healthy Bone Density
+23890,60.55541712,F,no fracture,76,155,No medication,11,0.97600001,0.278688607,Healthy Bone Density
+22723,60.8313568,M,no fracture,70,159.5,No medication,8,1.0265,0.692622951,Healthy Bone Density
+6702,60.88359606,M,no fracture,73,166.5,No medication,5,0.83700001,-0.860655656,Healthy Bone Density
+8674,61.17008505,F,no fracture,70,152,No medication,11,0.8599,-0.67295082,Healthy Bone Density
+362,61.18467166,F,no fracture,67,149,No medication,6,0.80129999,-1.15327877,Osteopenia
+8950,61.60041411,F,no fracture,68,159,No medication,7,0.91390002,-0.230327705,Healthy Bone Density
+9028,61.64450359,F,fracture,55,162,No medication,34,0.68800002,-2.081967049,Osteopenia
+8971,62.06523735,F,no fracture,85,148.5,Glucocorticoids,7,0.7999,-1.164754098,Osteopenia
+6726,62.71790768,M,no fracture,78,161,No medication,8,0.8994,-0.349180328,Healthy Bone Density
+17178,63.02469707,M,no fracture,71,161,No medication,12,1.0366,0.775409836,Healthy Bone Density
+9051,63.28728844,F,no fracture,62,165.5,No medication,28,0.73839998,-1.668852623,Osteopenia
+17104,63.4419661,M,fracture,64,174,No medication,23,0.68989998,-2.066393607,Osteopenia
+7831,63.48783737,M,no fracture,55,164,Glucocorticoids,11,0.74089998,-1.64836082,Osteopenia
+23861,63.67318436,F,no fracture,63,158,No medication,34,0.70950001,-1.905737623,Osteopenia
+8751,63.76954463,F,no fracture,56,152,Glucocorticoids,7,0.72149998,-1.807377213,Osteopenia
+8876,64.0659499,F,no fracture,60,165,No medication,11,0.77819997,-1.342623197,Osteopenia
+3047,64.2131031,M,no fracture,90,175,Glucocorticoids,28,0.91839999,-0.193442705,Healthy Bone Density
+17128,65.13435742,M,no fracture,67,157,No medication,5,0.86220002,-0.654098197,Healthy Bone Density
+159,65.79535204,F,no fracture,74,145,No medication,14,0.77380002,-1.378688361,Osteopenia
+2088,66.25664804,M,no fracture,72,159.5,No medication,10,0.94660002,0.037705082,Healthy Bone Density
+8892,66.33562311,F,no fracture,62,150.5,No medication,5,0.86809999,-0.605737787,Healthy Bone Density
+23855,66.55921764,F,no fracture,63,159,No medication,10,0.78049999,-1.323770574,Osteopenia
+342,66.64486617,F,no fracture,60,153,No medication,18,0.963,0.172131148,Healthy Bone Density
+24097,66.67269226,M,no fracture,75,166,No medication,10,0.77579999,-1.362295164,Osteopenia
+3079,66.80418542,M,fracture,61,168.5,No medication,17,0.6882,-2.080327869,Osteopenia
+3800,66.82546218,M,no fracture,76,171,No medication,13,0.80330002,-1.136885082,Osteopenia
+7192,67.25216263,M,fracture,80,172,No medication,8,0.77450001,-1.372950738,Osteopenia
+2155,67.57338008,M,no fracture,39,159,No medication,19,0.55140001,-3.201639262,Severe Osteoporosis
+23912,67.65108105,F,no fracture,56,150,No medication,5,0.92619997,-0.129508443,Healthy Bone Density
+812,67.92438462,M,no fracture,80,170,No medication,13,1.0128,0.580327869,Healthy Bone Density
+69,67.92552839,F,no fracture,62,159,No medication,30,1.0176001,0.619672951,Healthy Bone Density
+24027,68.01774844,F,fracture,58,153,No medication,8,0.6103,-2.718852459,Osteoporosis
+8592,68.06825266,F,no fracture,49,144,No medication,51,0.75089997,-1.566393689,Osteopenia
+2454,68.40840332,M,no fracture,64,167,Glucocorticoids,6,0.6893,-2.071311475,Osteopenia
+24204,68.55087894,F,no fracture,70,154,No medication,14,0.83899999,-0.844262377,Healthy Bone Density
+23794,68.57130833,F,no fracture,48,161,No medication,6,0.70959997,-1.904918279,Osteopenia
+24182,68.68328771,F,fracture,48,154,No medication,13,0.64480001,-2.436065492,Osteopenia
+109,69.04817915,F,no fracture,72,154,No medication,11,0.78609997,-1.277869098,Osteopenia
+22768,69.08663791,M,no fracture,77,162,No medication,38,0.85089999,-0.746721393,Healthy Bone Density
+434,69.21393466,F,fracture,56,157,No medication,15,0.52850002,-3.389344098,Severe Osteoporosis
+175,69.23719028,F,no fracture,78,158,No medication,39,0.7586,-1.503278689,Osteopenia
+2789,69.65373122,M,no fracture,80,164,No medication,21,1.0031,0.500819672,Healthy Bone Density
+197,69.72844532,M,no fracture,84,164.5,Glucocorticoids,13,1.3624001,3.445902459,Severe Osteoporosis
+23995,69.97770123,F,fracture,85,148.5,No medication,26,0.62639999,-2.586885328,Severe Osteoporosis
+71,69.99482235,F,fracture,68.5,165,No medication,25,0.8664,-0.619672131,Healthy Bone Density
+23867,70.0285031,F,no fracture,59,155,No medication,17,0.80790001,-1.099180246,Osteopenia
+6732,70.19857261,M,no fracture,68,167,No medication,5,1.0405999,0.808195902,Healthy Bone Density
+334,70.40792405,F,no fracture,79,153,No medication,14,0.7766,-1.355737705,Osteopenia
+338,70.42187319,F,no fracture,55,162,Anticonvulsant,15,0.625,-2.598360656,Osteoporosis
+6736,70.7789,M,no fracture,73,170.5,No medication,10,0.90670002,-0.289344098,Healthy Bone Density
+24192,70.81094137,F,fracture,66,151,No medication,14,0.64319998,-2.449180492,Osteopenia
+5503,70.94756425,M,fracture,59,167,No medication,21,0.44069999,-4.109016475,Severe Osteoporosis
+145,71.17212415,F,fracture,63,148,Glucocorticoids,59,0.40759999,-4.380327951,Severe Osteoporosis
+4070,71.47172115,M,fracture,62,177,No medication,6,0.62970001,-2.559835984,Osteoporosis
+2181,72.08055823,M,no fracture,69,164,No medication,9,0.99900001,0.467213197,Healthy Bone Density
+24031,72.27013664,F,fracture,50,154,No medication,47,0.60009998,-2.80245918,Osteoporosis
+24200,72.77238723,F,no fracture,81,149.5,Glucocorticoids,9,0.509,-3.549180328,Severe Osteoporosis
+278,73.06759806,M,fracture,54,166,No medication,31,0.52869999,-3.387705,Severe Osteoporosis
+55,73.23042708,F,no fracture,52,153,No medication,89,0.71280003,-1.878688279,Osteopenia
+22168,73.94030609,M,no fracture,75,164.5,Glucocorticoids,8,0.8829,-0.48442623,Healthy Bone Density
+8922,73.97047074,F,no fracture,68,164,No medication,5,0.57929999,-2.972950902,Osteoporosis
+22162,74.17835572,M,no fracture,60,166,No medication,18,0.63380003,-2.526229262,Osteoporosis
+8938,74.7968828,F,fracture,48,160,No medication,96,0.48519999,-3.744262377,Severe Osteoporosis
+5292,75.01547985,M,no fracture,69,173.5,No medication,22,0.9364,-0.045901639,Healthy Bone Density
+8724,75.7412248,F,no fracture,78,162,No medication,56,0.79460001,-1.208196639,Osteopenia
+24190,76.73260358,F,fracture,73,155.5,No medication,11,0.63849998,-2.487705082,Osteopenia
+67,76.74551614,F,fracture,52,146,Glucocorticoids,20,0.56029999,-3.128688607,Severe Osteoporosis
+5509,76.8639147,M,no fracture,88,167,No medication,8,1.0015,0.487704918,Healthy Bone Density
+224,76.94473691,F,fracture,37,152,No medication,7,0.56349999,-3.102459098,Severe Osteoporosis
+688,77.15502036,M,no fracture,69,166,Glucocorticoids,9,1.002,0.491803279,Healthy Bone Density
+3806,77.17775151,M,no fracture,65,168,No medication,7,0.73009998,-1.73688541,Osteopenia
+103,77.76867742,F,fracture,61,150,No medication,7,0.54189998,-3.279508361,Severe Osteoporosis
+302,77.81962254,F,fracture,48,151,No medication,32,0.55470002,-3.17459,Severe Osteoporosis
+77,77.9064001,F,no fracture,50,152,No medication,24,0.61220002,-2.703278525,Osteoporosis
+21892,77.98254308,M,fracture,74,164,No medication,49,0.79409999,-1.212295164,Osteopenia
+24180,78.24717531,F,no fracture,60,148,No medication,14,0.7112,-1.891803279,Osteopenia
+17182,79.39970672,M,no fracture,76,161,No medication,14,0.9436,0.013114754,Healthy Bone Density
+5523,80.06020512,M,fracture,62,162.5,Anticonvulsant,15,0.67079997,-2.222951066,Osteopenia
+5348,80.77319346,M,fracture,79,159,Glucocorticoids,10,0.56760001,-3.068852377,Severe Osteoporosis
+382,81.08738516,F,fracture,50,149.5,No medication,7,0.55150002,-3.200819508,Severe Osteoporosis
+326,81.47969034,F,no fracture,78,145,No medication,21,0.90609998,-0.294262459,Healthy Bone Density
+690,81.48136958,M,fracture,54,154,Glucocorticoids,12,0.48179999,-3.77213123,Severe Osteoporosis
+17082,81.97955903,M,fracture,66,166,No medication,23,0.56150001,-3.118852377,Severe Osteoporosis
+2458,82.40717913,M,fracture,48,158,No medication,21,0.57209998,-3.031967377,Severe Osteoporosis
+23828,82.42315923,F,no fracture,74,156,No medication,25,0.81709999,-1.023770574,Osteopenia
+165,83.09364681,F,fracture,52,156,Anticonvulsant,20,0.45860001,-3.962295,Severe Osteoporosis
+87,83.21982284,F,fracture,51,150,No medication,9,0.55549997,-3.168033033,Severe Osteoporosis
+2314,83.67835729,M,fracture,56,168,No medication,7,0.63880002,-2.485245738,Osteopenia
+276,83.84773532,M,no fracture,79,163,No medication,6,0.84289998,-0.812295246,Healthy Bone Density
+2797,84.72176364,M,fracture,52,161,No medication,32,0.70850003,-1.91393418,Osteopenia
+3090,84.78739433,M,no fracture,68,165,No medication,11,1.2508,2.531147541,Osteoporosis
+292,85.57631118,F,fracture,41,142,No medication,7,0.64090002,-2.468032623,Osteopenia
+2006,85.90159463,M,fracture,57,163,No medication,24,0.61019999,-2.719672213,Osteoporosis
+2018,86.85986938,M,fracture,54,170,Anticonvulsant,29,0.64950001,-2.397540902,Osteopenia
+2029,87.93494224,M,fracture,57,156.5,No medication,69,0.53869998,-3.305737869,Severe Osteoporosis
+442,88.02415052,M,fracture,52,151.5,No medication,12,0.62040001,-2.636065492,Osteoporosis
+6973,88.7537953,M,no fracture,58,153,Glucocorticoids,19,0.85479999,-0.71475418,Healthy Bone Density
